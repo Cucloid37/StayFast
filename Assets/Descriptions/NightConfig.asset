@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 611f437bf82c4639b490a28498d270bc, type: 3}
+  m_Name: NightConfig
+  m_EditorClassIdentifier: 
+  Bloknot:
+  - {fileID: 21300000, guid: 7715d6a168fcff34899dab227c7b0b62, type: 3}
+  - {fileID: 21300000, guid: 23a3912f2973fe54883c737c8af215b7, type: 3}
+  - {fileID: 21300000, guid: 0787f8687dff5d548b29808ba883eb2a, type: 3}
+  nightImageString: Prefabs/Night
+  tubeString: Prefabs/Pad
+  massageString: Prefabs/NotePad
