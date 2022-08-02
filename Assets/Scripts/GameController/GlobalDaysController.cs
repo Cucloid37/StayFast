@@ -14,7 +14,7 @@ namespace StayFast
         private Stack<Sprite> massageStack;
         private CoroutineSystem _coroutine;
 
-        private int dayLenght = 10;
+        private int dayLenght = 20;
 
         public GlobalDaysController(AllDescriptions descriptions, CoroutineSystem coroutine, ChangeDaysController daysController)
         {
